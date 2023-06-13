@@ -1,7 +1,9 @@
 .footer{
+  /* width: 100%;
+  width: 1024px; */
   width: 100%;
-  width: 1024px;
   font-size: 12px;
+  background-color:#050921;
 }
 
 .fLists{
@@ -9,6 +11,7 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 50px;
+  color:#ffffff;
 }
 
 .fList{
@@ -18,6 +21,6 @@
 
 .fListItem{
   margin-bottom: 10px;
-  color: #003580;
+  color:#ffffff;
   cursor: pointer;
 }
